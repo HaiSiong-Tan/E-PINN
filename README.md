@@ -8,7 +8,9 @@ Evidential Physics-Informed Neural Networks (E-PINN) : a couple of illustrative 
 This repository includes:
   
 - **EPINN_poisson.ipynb** – An application of E-PINN to Poisson equation with Gaussian source.
-- **EPINN_FisherKPP.ipynb** – An application of E-PINN to Fisher-KPP equation.  
+  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HaiSiong-Tan/E-PINN/EPINN_poisson.ipynb)
+- **EPINN_FisherKPP.ipynb** – An application of E-PINN to Fisher-KPP equation.
+  [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HaiSiong-Tan/E-PINN/EPINN_FisherKPP.ipynb)
 - **doc_epinn_poisson.pdf** – A short write-up providing some explanatory details for key methods and equations, ideally to be read alongside https://arxiv.org/abs/2509.14568
 - **models** - folder containing some pretrained models and related objects for reference.
 
@@ -35,6 +37,9 @@ https://arxiv.org/abs/2509.14568
 </small>
 
 
+#### 👥 Authors
+
+Hai Siong Tan, Kuancheng Wang and Rafe McBeth
 
 #### 📝 License
 
