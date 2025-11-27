@@ -23,7 +23,7 @@ simply upload the notebooks and the 'models' folder to Colab and run them as-is.
 if you prefer running locally, install the required packages:
 
 ```bash
-pip install numpy scipy matplotlib seaborn numba torch
+pip install numpy scipy matplotlib numba torch
 ```
 #### 💡 What is E-PINN?
 
